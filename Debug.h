@@ -1,8 +1,6 @@
 /*! @file Debug.h
- This file contain all the function and all the definition about debug.\n
  The definition are used to call the main funcion limited to its contest.\n
  Commenting definition you should disable debug.\n
- @todo  split this file into Debug.pde + Debug.h (if necessary).
  @author Ing. M.Lampugnani
  @par Company:
  MyCompany
